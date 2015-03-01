@@ -19,8 +19,8 @@ The server simulates several independent network zone, connected by firewall VMs
   * I2P
   * DMZ (VPN provider-facing)
   * Lan
-  
-  Devices running in the lan zone can access Tor hidden services and I2P eepsites via transparent proxying, without requiring any any special configuration.
+
+Devices running in the lan zone can access Tor hidden services and I2P eepsites via transparent proxying, without requiring any any special configuration.
 
 By running a Cryptoo home server, you can achieve the following:
 
@@ -36,3 +36,9 @@ By running a Cryptoo workstation, you can achive the following:
   * This also improves your privacy because each web browser has its own unique fingerprint, therefore it's more difficult to correlate all your web activity to the same identity
 * Keep services like instant messaging and mail reading in seperate virtual machines for improved security isolation and privacy
 * Access your desktops from multiple devices. Virtualized desktops are accessed via SPICE protocol, so you can connect to them from a desktop PC or a remote laptop with equal ease.
+
+## Installation
+
+1. [Hardware requirements](hardware.md)
+2. [Pre-installation](pre-install.md)
+3. Installation instructions (coming soon)
