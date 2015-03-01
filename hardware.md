@@ -18,6 +18,8 @@
     * 32 GB
 1. Storage
   * Required
+    * A low-profile USB flash drive, minimum size 1 GB
+      * To be used as the boot device
     * At least one SSD, minimum size 500 GB
     * At least one HDD, minimum size 1 TB
   * Recommended
